@@ -1,18 +1,18 @@
 # Pastagram123
 
-Time spent: 7 hours spent in total
+           Time spent: 7 hours spent in total
 
-Added Feature
+# Added Feature
 
-User stays logged in across restarts.
+-User stays logged in across restarts.
 
-User can log out.
+-User can log out.
 
-User can view comments on a post.
+-User can view comments on a post.
 
-User can add a new comment.
+-User can add a new comment.
 
-User can add a profile picture.
+-User can add a profile picture.
 
 - an Instagram clone 
 -custom Parse backend that allows a user to post photos
