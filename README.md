@@ -14,10 +14,14 @@
 
 -User can add a profile picture.
 
-- an Instagram clone 
--custom Parse backend that allows a user to post photos
+ - an Instagram clone 
+ -custom Parse backend that allows a user to post photos
 
--view a global photos feed
+ -view a global photos feed
 
-- add comments!
+ - add comments!
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
